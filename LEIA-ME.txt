@@ -1,0 +1,24 @@
+SITE DE ANIVERSÁRIO — RAFIHX ♡ GABY
+
+Para publicar no GitHub Pages, envie a pasta inteira mantendo esta estrutura:
+- index.html
+- assets/trevo-tu.mp3
+- assets/momento-1.jpg
+- assets/momento-2.jpg
+
+A música não toca automaticamente ao abrir porque navegadores bloqueiam autoplay com áudio. Basta tocar no botão de música.
+
+O site inclui:
+- contador desde 04/01/2026
+- Trevo (Tu) integrada
+- fotos de momentos de vocês que estavam nos arquivos anteriores
+- opção para adicionar outra foto localmente
+- segredos em ????
+- área de apoio e carinho
+- jogo da memória
+- linha do tempo
+- carta em 4 fases
+- surpresa final
+- tema claro/escuro
+- corações e modo delicado/foco
+- layout responsivo para celular
